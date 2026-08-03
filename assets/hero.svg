@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-label="Prem Teja Gundabathina — Data Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f1e"/>
+      <stop offset="0.55" stop-color="#0b1226"/>
+      <stop offset="1" stop-color="#0a0f1e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="0.4" stop-color="#06b6d4"/>
+      <stop offset="0.75" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#f5b544"/>
+      <animate attributeName="x1" values="0;0.6;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;1.6;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.1" r="0.8">
+      <stop offset="0" stop-color="#1d4ed8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1d4ed8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1e293b" stroke-opacity="0.35" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#glow)"/>
+
+  <text x="600" y="70" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="7" font-weight="600" fill="#64748b">DATA ENGINEER</text>
+
+  <text x="600" y="176" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="1" fill="url(#accent)">PREM TEJA GUNDABATHINA</text>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="500">
+    <text x="600" y="238" text-anchor="middle" fill="#cbd5e1">
+      Healthcare Data Platforms
+      <tspan fill="#334155">&#160;&#160;•&#160;&#160;</tspan>
+      Cloud Pipelines
+      <tspan fill="#334155">&#160;&#160;•&#160;&#160;</tspan>
+      AI-ready Data Systems
+    </text>
+  </g>
+
+  <rect x="470" y="272" width="260" height="2" rx="1" fill="url(#accent)"/>
+  <text x="600" y="312" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#94a3b8" letter-spacing="1">Turning raw source data into trustworthy, analytics-ready systems.</text>
+
+  <circle cx="150" cy="300" r="3" fill="#06b6d4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1050" cy="90" r="3" fill="#8b5cf6"><animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="300" r="2.5" fill="#3b82f6"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
