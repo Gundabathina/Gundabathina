@@ -27,7 +27,7 @@ An end-to-end healthcare data engineering and analytics platform using Python, P
 
 | Project | Summary | Tech | Links |
 |:--|:--|:--|:--|
-| **ClaimsLake** | Healthcare claims data platform on a Bronze → Silver → Gold medallion architecture, with dbt modeling and Airflow orchestration. | `PySpark` `dbt` `Airflow` | [Repo](https://github.com/Gundabathina/claimslake) |
+| **ClaimsLake** | Healthcare claims data platform on a Bronze → Silver → Gold medallion architecture, with dbt modeling and Airflow orchestration. | `PySpark` `dbt` `Airflow` | [Repo](https://github.com/Gundabathina/claimslake) · [Live](https://claimslake.vercel.app) |
 | **Portfolio** | Personal data engineering portfolio site. | `React` `TypeScript` | [Repo](https://github.com/Gundabathina/prem-portfolio) · [Live](https://prem-portfolio-nu.vercel.app) |
 | **Healthcare Data Analysis** | Exploratory analysis of patient appointment no-show data. | `Python` `Pandas` | [Repo](https://github.com/Gundabathina/Healthcare-Data-Analysis-Using-Python) |
 | **Medical Cost Forecasting** | Forecasting insurance costs with EDA and regression. | `scikit-learn` | [Repo](https://github.com/Gundabathina/Medical-Cost-Analysis-and-Forecasting) |
