@@ -143,8 +143,6 @@ An end-to-end healthcare data engineering and analytics platform using Python, P
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gundabathina&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=38BDF8&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gundabathina&theme=github_dark" alt="Profile Summary" />
-
 </div>
 
 <br/>
